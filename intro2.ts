@@ -17,7 +17,7 @@ let ex_Rest_parameter : string = "Rest parameter";
 let ex_Functional_type_alias : string = "Functional type alias";
 
 // Set example
-let example2 : string = ex_Functional_type_alias;
+let example2 : string = ex_Int_enums;
 switch( example2 ){
 
    /* Int Enum
