@@ -1,11 +1,11 @@
 # INTRODUCTION
 
 * This repo is for learning and testing type script which is described at https://www.typescriptlang.org/.
-* I use VSCode.
+* I use [VSCode](https://code.visualstudio.com/).
 * There's online docs, in particular, RTFM @ https://www.typescriptlang.org/docs/handbook/intro.html.
 * This repo contains the typescript engine and presumes node is installed (my path, ie, is /c/Program Files/nodejs).
-* To look at the syntax, open up intro.ts, and decomment snippets beginning with '////' and then execute. In VSC
-    it's compiled with 'npx tsc intro.ts' from the terminal.
+* To look at the syntax, open up intro**N**.ts, and set example variable equal to example string then execute. In VSC
+    it's compiled with 'npx tsc intro**N**.ts' from the terminal.
 * As my learning continues, additional source code will be added.
 
 # HISTORY
@@ -24,29 +24,29 @@ The files intro1.ts, instro2.ts, and intro3.ts provide small snippets for inspec
 
 ## intro1.ts
 ---
-* String type
-* Any type
-* Unknown type with casts
-* String[] type
-* Implicit declaration of array
-* Readonly tuple
-* Named tuple
-* Explicit object
-* Implicit object
-* Optional type
-* Index signature
+* **String type**
+* **Any type**
+* **Unknown type with casts**
+* **String[] type**
+* **Implicit declaration of array**
+* **Readonly tuple**
+* **Named tuple**
+* **Explicit object**
+* **Implicit object**
+* **Optional type**
+* **Index signature**
 
 ## intro2.ts
 ---
- * Int enum
- * String enum
- * Type alias
- * Interface
- * Extended interface
- * Union type
- * Function return type
- * Function return type void
- * Optional paramater
- * Default paramater
- * Rest parameter
- * Functional type alias
+* **Int enum**
+* **String enum**
+* **Type alias**
+* **Interface**
+* **Extended interface**
+* **Union type**
+* **Function return type**
+* **Function return type void**
+* **Optional paramater**
+* **Default paramater**
+* **Rest parameter**
+* **Functional type alias**
