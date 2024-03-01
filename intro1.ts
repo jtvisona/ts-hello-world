@@ -3,20 +3,20 @@
 /* ================================================================ */
 
 // Examples
-let ex_String_type = "String type";
-let ex_Any_type = "Any type";
-let ex_Unknown_type = "Unknown type with casts";
-let ex_StringArr_type = "String[] type";
-let ex_Implicit_array = "Implicit declaration of array";
-let ex_Readonly_tuple = "Readonly tuple";
-let ex_Named_tuple = "Named tuple";
-let ex_Explicit_object = "Explicit object";
-let ex_Implicit_object = "Implicit object";
-let ex_Optional_type = "Optional type";
-let ex_Index_signature = "Index signature";
+let ex_String_type : string = "String type";
+let ex_Any_type : string = "Any type";
+let ex_Unknown_type : string = "Unknown type with casts";
+let ex_StringArr_type : string = "String[] type";
+let ex_Implicit_array : string = "Implicit declaration of array";
+let ex_Readonly_tuple : string = "Readonly tuple";
+let ex_Named_tuple : string = "Named tuple";
+let ex_Explicit_object : string = "Explicit object";
+let ex_Implicit_object : string = "Implicit object";
+let ex_Optional_type : string = "Optional type";
+let ex_Index_signature : string = "Index signature";
 
 // Set example
-let example = ex_String_type;
+let example : string = ex_String_type;
 switch( example ){
 
    /* String type
@@ -188,5 +188,15 @@ switch( example ){
       break;
 
    default:
-      console.log( "No example selected. Decomment an example." );
+      console.log( "No example selected. Assign an example." );
 }
+
+   /* TOKEN
+      ================================================================ *
+      case "TOKEN":
+         console.log( "<<<TOKEN>>>" );
+
+      
+      console.log( "" );
+      break;
+   */
