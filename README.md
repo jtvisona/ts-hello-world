@@ -16,7 +16,7 @@
     * run '$ npx tsc in node modules' to compile TS to JS
     * in order to create tsconfig.json for TS, '$ npx tsc -init'
 * set '"main": "intro.js"' in package.json for VSCode to execute TS output with F5
-* used git -init for building the repo in the initial commit
+* used "$ git -init" for building the repo in the initial commit
 
 # TOPICS
 
