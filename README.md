@@ -50,3 +50,19 @@ The files intro1.ts, instro2.ts, and intro3.ts provide small snippets for inspec
 * **Default paramater**
 * **Rest parameter**
 * **Functional type alias**
+
+## intro3.ts
+---
+* **Named parameters**
+* **As cast**
+* **Angle bracket cast**
+* **Forced cast**
+* **Member types and visibility**
+* **Implements, Extends, and Overrides**
+* **Method override**
+* **Abstract class**
+* **Simple generics**
+* **Extended generics**
+* **Class generics**
+* **Class generics defaults**
+* **Aliased type wrapper**

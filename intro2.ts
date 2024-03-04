@@ -189,9 +189,10 @@ switch( example2 ){
       ================================================================ */
       case "Rest parameter":
          console.log( "<<<Rest parameter>>>" );
-      // Rest array, which allows an open-ended set of params, must occur last in declaration
+      // Rest array, which allows an open-ended set of params; must occur last in declaration
       function reduceArray( firstNum : number, ...arrayNumbers : number[] ) : number {
-         let sum : number = firstNum;         for (const someNum of arrayNumbers) {
+         let sum : number = firstNum;
+         for (const someNum of arrayNumbers) {
            sum += someNum;
          }
          return sum;
