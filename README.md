@@ -66,3 +66,18 @@ The files intro1.ts, instro2.ts, and intro3.ts provide small snippets for inspec
 * **Class generics**
 * **Class generics defaults**
 * **Aliased type wrapper**
+
+## intro4.ts
+---
+* **Utility partial**
+* **Utility required**
+* **Utility record**
+* **Utility omit**
+* **Utility pick**
+* **Utility exclude**
+* **Utility returntype**
+* **Utility parameters**
+* **Utility readonly**
+
+## intro4.ts
+---
